@@ -1,4 +1,4 @@
-# 💫 Hola 👋, soy Cristian Nahuel Nina(Nahuel Nina)
+# 💫 Hola 👋, soy Nahuel Nina
 **Desarrollador Full Stack | .NET (C#) & Angular | Cochabamba, Bolivia 🇧🇴**
 
 📩 **Correo:** ninacristian55@gmail.com  
