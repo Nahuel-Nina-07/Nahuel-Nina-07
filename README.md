@@ -1,4 +1,10 @@
-# 💫 Hola 👋, soy Nahuel Nina
+<div align="center">
+<h2> 👋 Hola, desarrolladores <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+</h2>
+</div>
+
+# 💫 Soy Nahuel Nina
 **Desarrollador Full Stack | .NET (C#) & Angular | Cochabamba, Bolivia 🇧🇴**
 
 📩 **Correo:** ninacristian55@gmail.com  
